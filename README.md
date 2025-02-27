@@ -1,5 +1,15 @@
-## Next.js App Router Course - Starter
+## Getting Started
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+First, run the development server:
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
